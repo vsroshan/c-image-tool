@@ -1,0 +1,19 @@
+# Compiled executable
+image-tool
+
+# macOS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated example images
+*-grayscale.bmp
+*-invert.bmp
+*-reflect.bmp
+*-blur.bmp
